@@ -1,6 +1,6 @@
 # Boas vindas ao projeto Xspace ReactJs!
 
-Xspace é uma aplicação com consumos de dois rotas /users e /news, com opções de criar, editar e deletar. A aplicação foi desenvolvida com React Js com Typescript, Hooks, com dependencias incluindo react-router-dom, styled components,material-ui, react-icons e polished . Para uma melhor organização da estrutura da aplicação também foram configurados o prettier, eslint e editorconfig.
+Xspace é uma aplicação com consumos de duas rotas /users e /news, com opções de criar, editar e deletar. A aplicação foi desenvolvida com React Js com Typescript, Hooks, com dependencias incluindo react-router-dom, styled components,material-ui, react-icons e polished . Para uma melhor organização da estrutura da aplicação também foram configurados o prettier, eslint e editorconfig.
 
 ## Requisitos :
 
