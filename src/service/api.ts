@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:3001/hygiaApi',
+  baseURL: 'https://hygiapi.herokuapp.com',
 });
 
 export default api;

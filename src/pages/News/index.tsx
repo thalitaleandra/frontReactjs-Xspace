@@ -126,7 +126,7 @@ const News: React.FC = () => {
           <table>
             <thead>
               <tr>
-                <th>Name</th>
+                <th>News</th>
                 <th>Actions</th>
               </tr>
             </thead>
