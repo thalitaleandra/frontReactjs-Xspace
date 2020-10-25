@@ -1,44 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Boas vindas ao projeto Xspace ReactJs!
 
-## Available Scripts
+Xspace é uma aplicação com consumos de dois rotas /users e /news, com opções de criar, editar e deletar. A aplicação foi desenvolvida com React Js com Typescript, Hooks, com dependencias incluindo react-router-dom, styled components,material-ui, react-icons e polished . Para uma melhor organização da estrutura da aplicação também foram configurados o prettier, eslint e editorconfig.
 
-In the project directory, you can run:
+## Requisitos :
 
-### `yarn start`
+É necessário possuir node, yarn nas versões mais atuais instalados no seu ambiente de desenvolvimento.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Como rodar o projeto :runner:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Para executar o projeto, utilize o seguinte comando na raiz do projeto:
 
-### `yarn test`
+```bash
+- yarn
+- yarn start
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Api xSpace
 
-### `yarn build`
+Clique para saber mais sobre as rotas e o deploy:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[api](https://hygiapi.herokuapp.com/).
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Deploy no Netlify
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://fervent-swirles-8445ad.netlify.app/
